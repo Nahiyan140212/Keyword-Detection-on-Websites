@@ -13,3 +13,4 @@ How do you expect your model to perform on test data (in terms of your metrics)?
 How fast will your algorithm perform and how could you improve its performance if you would have more time?
 How do you think you would be able to improve your algorithm if you would have more data?
 What potential issues do you see with your algorithm?
+check
