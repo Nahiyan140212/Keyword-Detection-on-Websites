@@ -1,0 +1,9 @@
+pandas
+beautifulsoup4
+gensim
+plotly
+numpy
+tensorflow
+scikit-learn
+nbformat = 4.2.0
+lxml
